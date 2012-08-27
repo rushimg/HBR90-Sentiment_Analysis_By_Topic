@@ -1,5 +1,8 @@
 The attached code and description were created for the [Harvard Business Review 'Vision Statement' Prospect on Kaggle](https://www.kaggle.com/c/harvard-business-review-vision-statement-prospect/prospector)
 
+sentimentToFile.py is the main file, in which a topic can be set and the program will output a file containing the sentiment values of articles whos subject is the chosen topic, a corresponding dates array for the articles, and the titles of the articles with max and min sentiment values. Files used to process, analyze and graph the data can be found in src. 
+
+
 
 
 
