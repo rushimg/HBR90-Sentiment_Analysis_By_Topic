@@ -1,3 +1,13 @@
+The attached code and description were created for the [Harvard Business Review 'Vision Statement' Prospect on Kaggle](https://www.kaggle.com/c/harvard-business-review-vision-statement-prospect/prospector)
+
+
+
+
+
+
+
+
+
 Sentiment Analysis By Topic over Time
 
 The following project provides visualization of a few common terms found in HBR over the last 90 years and attempts to analyze the net sentiment of the terms over time.
@@ -22,7 +32,7 @@ China: The maximum positive sentiment was in an article titled "Entering China: 
 
 American: The maximum positive sentiment was in an article titled "Tocqueville Revisited: The Meaning of American Prosperity" appearing on January 1st, 2001, one of the most prosperous times for the U.S.. Articles with the keyword American appear spread out over time and are generally highly positive.
 
-Innovation: The maximum positive sentiment was in an article titled "Finding and Grooming Breakthrough Innovators" appearing on December 1st, 2008, interestingly as the current financial crisis was begining. Overall the term Innovation displayed the highest overall average positive sentiment and has only been popular for the last 30 years.
+Innovation: The maximum positive sentiment was in an article titled "Finding and Grooming Breakthrough Inno[an example](http://example.com/ "Title")vators" appearing on December 1st, 2008, interestingly as the current financial crisis was begining. Overall the term Innovation displayed the highest overall average positive sentiment and has only been popular for the last 30 years.
 
 Manufacturing: The maximum positive sentiment was in an article titled "Breakthrough Manufacturing" appearing on March 1st, 1987. This term appeared frequently in the '70s '80s and '90 but has since ceased to appear as frequently.
 
