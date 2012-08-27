@@ -5,7 +5,7 @@ sentimentToFile.py is the main file, in which a topic can be set and the program
 Files used to process, analyze and graph the data can be found in src. Generated text files and helper text files are in outputTxtFiles. All provided HBR respurces can be found in resources
 
 
-
+![graph](https://raw.github.com/rushimg/HBR90-Sentiment_Analysis_By_Topic/master/submissionImages/submission2.png)
 
 
 
